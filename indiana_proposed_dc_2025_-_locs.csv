@@ -1,0 +1,47 @@
+name,owner,city,county,latitude,longitude,project_status,electric_utility,iso,anticipated_pwr_demand_mw,acres
+Google - Fort Wayne,Google,Fort Wayne,Allen,41.018634,-85.056727,Under Construction,I&M,PJM,"1,200",900
+Unnamed - New Haven,Unnamed,New Haven,Allen,41.078707,-84.942076,Proposed,I&M,PJM,500,
+Meta - Lebanon,Meta,Lebanon,Boone,40.054466,-86.53637,Under Construction,WVPA / Boone County REMC,MISO,1540,"1,500"
+Meta - Jeffersonville,Meta,Jeffersonville,Clark,38.35694271,-85.66182959,Under Construction,Duke Energy,MISO,407,619
+Unnamed - Brazil,Unnamed,Brazil,Clay,39.62505773,-87.08966716,Proposed,WVPA / Parke County REMC,MISO,400,
+Logistix - Frankfort,Logistix,Frankfort,Clinton,40.2865991,-86.55567993,Temporarily Withdrawn,Frankfort Municipal Utilities,MISO,300,718
+Jumping Bison LLC - Greensburg,Jumping Bison LLC,Greensburg,Decatur,39.378719,-85.520116,Proposed,Duke Energy,MISO,50,550
+Province Group - Bristol,Province Group,Bristol,Elkhart,41.69744636,-85.84134201,Withdrawn,NIPSCO,MISO,,247
+Takanock - Goshen,Takanock,Goshen,Elkhart,41.67126617,-85.80403264,Proposed,NIPSCO,MISO,"1,500",
+Unnamed - Gibson/Posey,Unnamed,,Gibson or Posey*,38.311283,-87.610799,Proposed,CenterPoint,MISO,600,
+Surge Development - Greenfield,Surge Development,Greenfield,Hancock,39.85879892,-85.86998236,Withdrawn,Duke Energy,MISO,,775
+Unnamed - McCordsville,Unnamed,McCordsville,Hancock,39.859392,-85.893706,Rumored,Duke Energy,MISO,,
+Vantage Data Centers - Pittsboro,Vantage Data Centers,Pittsboro,Hendricks,39.90829087,-86.44792266,Withdrawn,WVPA / Hendricks Power Cooperative,MISO,600,618
+Surge Development - Knightstown,Surge Development,Knightstown,Henry,39.8420613,-85.5652815,Proposed,Hoosier Energy / South Central Indiana REMC,MISO,,585
+Unnamed - Wheatfield,Unnamed,Wheatfield,Jasper,41.2153786,-86.9916206,Rumored,NIPSCO,MISO,,
+Unnamed - Marble Hill,Unnamed,Hanover,Jefferson,38.59496196,-85.45740646,Proposed,Hoosier Energy,MISO,310,
+Prologis - Leesburg,Prologis,Leesburg,Kosciusko,41.335959,-85.905183,Withdrawn,Kosciusko REMC,MISO,,550
+Unnamed - Gary,Unnamed,Gary,Lake,41.562179,-87.3633419,Rumored,NIPSCO,MISO,,
+SLG/Digital Crossroads - Hammond,Digital Crossroads,Hammond,Lake,41.705194,-87.517756,Proposed,NIPSCO,MISO,260,
+Sentinel - Hebron,Sentinel Data Centers,Hebron,Lake,41.28966838,-87.27229987,Proposed,NIPSCO,MISO,504,164
+Hobart Devco - Hobart,Hobart Devco,Hobart,Lake,41.513276,-87.288821,Proposed,NIPSCO,MISO,,168
+Wylie Capital - Hobart,Wylie Capital,Hobart,Lake,41.50177775,-87.28811692,Proposed,NIPSCO,MISO,,400
+Karis Critical - Merrillville,Karis Critical,Merrillville,Lake,41.43505846,-87.31635509,Proposed,NIPSCO,MISO,,178
+Province Group - Merrillville,Province Group,Merrillville,Lake,41.461147,-87.299913,Proposed,NIPSCO,MISO,,
+Wylie Capital - Merrillville,Wylie Capital,Merrillville,Lake,41.445749,-87.330242,Proposed,NIPSCO,MISO,,87
+Unnamed-Kingbury,Unnamed,Kingbury,LaPorte,41.496838,-86.633174,Proposed,NIPSCO,MISO,,
+Microsoft - LaPorte,Microsoft,LaPorte,LaPorte,41.618933,-86.689201,Proposed,NIPSCO,MISO,538,
+Phoenix Investments - Michigan City,Phoenix Investments,Michigan City,LaPorte,41.71352985,-86.84278867,Under Construction,NIPSCO,MISO,,67
+Google - Indianapolis (Franklin Township),Google,Indianapolis,Marion,39.720488,-85.998993,Withdrawn,AES Indiana,MISO,400,467
+Metrobloks - Indianapolis,Metrobloks,Indianapolis,Marion,39.80436494,-86.1022588,Proposed,AES Indiana,MISO,75,14
+Sabey Corp. - Indianapolis,Sabey Corp.,Indianapolis,Marion,39.66214947,-86.3103815,Proposed,AES Indiana,MISO,250,130
+Digital Resources Acquisitions LLC - Elletsville,Digital Resources Acquisitions LLC,Elletsville,Monroe,39.25269632,-86.66753335,Withdrawn,Duke Energy,MISO,,343
+Google - Monrovia,Google,Monrovia,Morgan,39.59925641,-86.45478367,Proposed,AES Indiana,MISO,"1,200",391
+Provident Realty - Burns Harbor,Provident Realty,Burns Harbor,Porter,41.61282061,-87.10380291,Withdrawn,NIPSCO,MISO,,102
+Provident Realty - Chesterton,Provident Realty,Chesterton,Porter,41.59841134,-87.09187958,Withdrawn,NIPSCO,MISO,,27
+Amazon - Portage,Amazon,Portage,Porter,41.607502,-87.17022716,Unknown,NIPSCO,MISO,,
+Agincourt - Valparaiso,Agincourt Investments,Valparaiso,Porter,41.50086529,-87.01906199,Withdrawn,NIPSCO,MISO,,249
+QTS - Jeremiah A,QTS,Wheeler,Porter,41.507304,-87.201062,Withdrawn,NIPSCO,MISO,,
+QTS - Jeremiah B,QTS,Wheeler,Porter,41.497799,-87.181672,Withdrawn,NIPSCO,MISO,,
+Unnamed - Dale,Unnamed,Dale,Spencer,38.185116,-86.972179,Proposed,Southern Indiana REMC/Duke Energy,MISO,,
+Microsoft - Granger,Microsoft,Granger,St. Joseph,41.729033,-86.123315,Proposed,I&M,PJM,"1,000",939
+Unnamed - New Carlisle,Unnamed,New Carlisle,St. Joseph,41.7201804,-86.4916321,Proposed,I&M,PJM,,"1,057"
+Amazon - New Carlisle,Amazon,New Carlisle,St. Joseph,41.67149597,-86.46905608,Under Construction,I&M,PJM,"2,250","1,200"
+Abei Energy - Starke,Abei Energy,Knox,Starke*,41.292362,-86.621084,Rumored,,,,
+Unnamed - Merom,Unnamed,Merom,Sullivan,39.07041851,-87.51143575,Withdrawn,Hoosier Energy,MISO,"1,580",
+Unnamed - Wolcutt,Unnamed,Wolcutt,White,40.76536681,-87.06916121,Proposed,NIPSCO,MISO,,
